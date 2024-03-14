@@ -22,9 +22,11 @@ The 'Decision' feature serves as the label, representing the outcome of the fall
 
 ## Research Questions
 
-This project will address the following research questions:
+The primary research question:
 
 1. **Prediction Accuracy:** How well can the models predict falls among the elderly based on the provided features?
+
+This project will also address the following secondary research questions:
 
 2. **Feature Importance:** Which features play a crucial role in predicting falls, and how do they contribute to the models' decision-making process?
 

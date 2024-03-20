@@ -38,9 +38,10 @@ This project will also address the following secondary research questions:
 
 ## Model Design
 
-The project will employ two types of models:
+The project will employ three types of models:
 
+- **Supervised Model: Linear Regression**
 - **Supervised Model: Random Forest Classifier**
 - **Unsupervised Model: Kmeans Clustering**
 
-The Random Forest Classifier will be trained on labeled data, leveraging Decision as the target variable, while the Kmeans Clustering algorithm will explore patterns and relationships within the dataset without using labeled information. The comparative analysis of these models will provide insights into their effectiveness for the specific task of elderly fall prediction.
+The Random Forest Classifier will be trained on labeled data, leveraging Decision as the target variable, while the Kmeans Clustering algorithm will explore patterns and relationships within the dataset without using labeled information. The linear regression model will also be trained on labeled data. The comparative analysis of these models will provide insights into their effectiveness for the specific task of elderly fall prediction.
